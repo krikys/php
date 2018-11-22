@@ -1,0 +1,129 @@
+.container{
+	width: 500px;
+	height:auto;
+	background-color: red;
+	margin: auto;
+	margin-top: 20px;
+	
+	padding-top: 20px;
+}
+
+.user_info{
+	color:#777;
+	text-align: center;
+	font-weight: 300;
+	border: 1px dashed #777;
+	margin-top: 7px;
+}
+
+.table{
+	width: 500px;
+	height:auto;
+	background-color: blue;
+	margin: auto;
+	margin-top: 20px;
+	border-radius: 20px;
+	padding-top: 20px;
+}
+
+img{
+	float: right;
+	margin: 5px;
+	width: 110px;
+	height: 60px;
+}
+
+body{
+	background-image: url(img/hello.jpg);
+	background-size: cover;
+	background-color:black;
+}
+
+label{
+	font-size: 38px;
+	margin-left: 40%;
+	font-family: Times New Roman;
+	color: black;
+}
+
+input{
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 24px;
+	border-radius: 7px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 15px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+.btn{
+	width: 330px;
+	height: 40px;
+	margin-left: 90px;
+	margin-top: 15px;
+	margin-bottom:15px;
+	border-radius: 10px;
+	font-family: Georgia;
+	font-size: 21px;
+	background-color: blue;
+	cursor: pointer;
+	
+}
+
+.change_btn{
+	width: 330px;
+	height: 40px;
+	margin-left: 90px;
+	margin-top: 15px;
+	margin-bottom:15px;
+	border-radius: 10px;
+	font-family: Georgia;
+	font-size: 21px;
+	background-color: blue;
+	cursor: pointer;
+	
+}
+
+.upload{
+	width: 150px;
+	height: 20px;
+	margin-left: 5px;
+	margin-top: 15px;
+	border-radius: 50px;
+	font-family: Georgia;
+	font-size: 8px;
+	background-color: blue;
+	cursor: pointer;
+	float:right;
+}
+
+.info_btn{
+	margin-left: 5px;
+	border-radius: 50px;
+	font-family: Calibri;
+	font-size: 25px;
+	background-color: white;
+	cursor: pointer;
+	float:left;
+}
+
+.del_btn{
+	margin-right: 5px;
+	display:inline-block;
+	border-radius: 10px;
+	font-family: Georgia;
+	font-size: 21px;
+	background-color: white;
+	cursor: pointer;
+	float:right;
+}
+
+a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+	margin-left: 210px;
+
+}
